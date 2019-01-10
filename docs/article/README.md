@@ -1,5 +1,4 @@
-# lilaobiao.github.io
-李老表博客
+# 如何在同一台电脑上使用多个github账户
 
 1. 打开gitbash
 
@@ -203,4 +202,3 @@ https://github.com/lilaobiao/lilaobiao.github.io.git
 git clone https://username:password@github.com/lilaobiao/lilaobiao.github.io.git
 
 但是一旦这样克隆代码后，你电脑上的github账户就被更改了，会导致很多别的问题，建议不要用这种方式
-
